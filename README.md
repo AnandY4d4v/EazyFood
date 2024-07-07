@@ -24,8 +24,8 @@ Welcome to EAZY FOOD! This application helps you discover and order delicious me
 
 ## Screenshots
 
-| <img src="docs_resources/s1.jpg" width="200"> | <img src="docs_resources/s2.jpg" width="200"> | <img src="docs_resources/s3.jpg" width="200"> |
-| --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| <img src="docs_resources/1.jpg" width="200"> | <img src="docs_resources/2.jpg" width="200"> | <img src="docs_resources/3.jpg" width="200"> | <img src="docs_resources/4.jpg" width="200"> | <img src="docs_resources/5.jpg" width="200"> | <img src="docs_resources/6.jpg" width="200"> | | <img src="docs_resources/7.jpg" width="200"> | <img src="docs_resources/8.jpg" width="200"> | <img src="docs_resources/8.jpg" width="200"> | <img src="docs_resources/8.jpg" width="200"> | 
+
 
 ## Technologies Used
 
@@ -53,5 +53,5 @@ Contributions are welcome! Please follow these steps to contribute:
 
 For any inquiries, please contact:
 
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
+- Your Name - [email2felixfelix@gmail.com](mailto:email2felixfelix@gmail.com)
 - GitHub: [AnandY4d4v](https://github.com/AnandY4d4v)
