@@ -24,7 +24,7 @@ Welcome to EAZY FOOD! This application helps you discover and order delicious me
 
 ## Screenshots
 
-| <img src="docs_resources/1.jpg" width="200"> | <img src="docs_resources/2.jpg" width="200"> | <img src="docs_resources/3.jpg" width="200"> | <img src="docs_resources/4.jpg" width="200"> | <img src="docs_resources/5.jpg" width="200"> | <img src="docs_resources/6.jpg" width="200"> | | <img src="docs_resources/7.jpg" width="200"> | <img src="docs_resources/8.jpg" width="200"> | <img src="docs_resources/8.jpg" width="200"> | <img src="docs_resources/8.jpg" width="200"> | 
+| <img src="docs_resources/1.jpg" width="200"> | <img src="docs_resources/2.jpg" width="200"> | <img src="docs_resources/3.jpg" width="200"> | <img src="docs_resources/4.jpg" width="200"> | <img src="docs_resources/5.jpg" width="200"> | <img src="docs_resources/6.jpg" width="200"> | | <img src="docs_resources/7.jpg" width="200"> | <img src="docs_resources/8.jpg" width="200"> | <img src="docs_resources/9.jpg" width="200"> | <img src="docs_resources/10.jpg" width="200"> | 
 
 
 ## Technologies Used
